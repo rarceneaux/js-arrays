@@ -13,6 +13,13 @@
 // const newNum = numArray.join('');
 // console.log('newNum', newNum);
 
-const palChecker = (word) =>{ 
-let wordReverse = word.split('');
-const 
+// const palChecker = (word) =>{ 
+// let wordReverse = word.split('');
+// const 
+
+// let animals = ['spiders','snakes','bears','bats'];
+
+// const lastItems = animals.pop();
+
+// const firstItem = animals.shift();
+
